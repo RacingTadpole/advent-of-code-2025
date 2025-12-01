@@ -1,0 +1,38 @@
+# ----------------------------------------
+# 1. Virtual Environments
+# ----------------------------------------
+# Standard venv folder name
+.venv/
+venv/
+env/
+
+# Ignore files created by pip/setuptools
+*.egg-info/
+build/
+dist/
+
+# ----------------------------------------
+# 2. Python Compiled Files & Bytecode
+# ----------------------------------------
+# Compiled python files
+__pycache__/
+*.pyc
+*.pyd
+*.so
+
+# ----------------------------------------
+# 3. VS Code & Jupyter Files
+# ----------------------------------------
+# Local VS Code settings (workspace settings are often shared, but this is for local user files)
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# ----------------------------------------
+# 4. Operating System Files
+# ----------------------------------------
+.DS_Store # macOS files
+Thumbs.db # Windows files
