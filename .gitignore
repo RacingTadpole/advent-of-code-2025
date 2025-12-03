@@ -24,7 +24,6 @@ __pycache__/
 # 3. VS Code & Jupyter Files
 # ----------------------------------------
 # Local VS Code settings (workspace settings are often shared, but this is for local user files)
-.vscode/settings.json
 .vscode/launch.json
 .vscode/tasks.json
 
