@@ -35,3 +35,9 @@ __pycache__/
 # ----------------------------------------
 .DS_Store # macOS files
 Thumbs.db # Windows files
+
+# ----------------------------------------
+# 5. Advent of code specific
+# ----------------------------------------
+input.*
+example.*
